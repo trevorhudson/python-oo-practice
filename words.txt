@@ -1,14 +1,21 @@
+# Veggies
+
 friend
 hello
 this
 is
 my
 word
+
+# fruits
+
 dictionary
 so
 much
 fun
 to
+
+# meat
 zebra
 cow
 giraffe
